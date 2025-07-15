@@ -1,0 +1,47 @@
+- name: Git
+  percentage: 95
+  color: success
+
+- name: Linux
+  percentage: 90
+  color: success
+
+- name: Docker
+  percentage: 90
+  color: success
+
+- name: Kubernetes
+  percentage: 95
+  color: success
+
+- name: Google Cloud
+  percentage: 75
+  color: success
+
+- name: AWS
+  percentage: 75
+  color: success
+
+- name: Spring / Spring Boot
+  percentage: 95
+  color: success
+
+- name: Relational Databases (Postgres, Oracle, ...)
+  percentage: 90
+  color: success
+
+- name: NoSQL Databases (MongoDB, Firestore, ...)
+  percentage: 80
+  color: success
+
+- name: Kafka / Pub/Sub / RabbitMQ
+  percentage: 80
+  color: success
+
+- name: GitHub Actions (CI/CD)
+  percentage: 80
+  color: success
+
+- name: GitHub Copilot
+  percentage: 70
+  color: success

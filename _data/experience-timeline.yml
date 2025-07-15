@@ -1,0 +1,42 @@
+- title: Accenture
+  position: Enterprise Architect Senior Consultant · Full-time
+  project: Leading a cloud infrastructure project on both GCP and AWS for clients in the Mobility and Insurance sectors, combining senior backend development with cloud architecture design.
+  from: June 2024
+  to: Present
+  achievement: Took on a leadership role in a high-responsibility, cloud-native project, contributing to enterprise architecture decisions and mentoring junior team members while ensuring alignment with modern cloud and DevOps practices. Also gained expertise in the Tolling and Insurance market fields.
+  technologies:
+    - Spring Boot
+    - PostgreSQL
+    - Google Cloud Platform (GCP)
+    - AWS
+    - Pub/Sub
+    - Firestore
+    - Cloud Storage
+    - Java
+
+
+- title: Open Reply
+  position: Mid Backend Developer · Full-time
+  project: Developed and maintained microservices for a Wealth Management Platform in the banking sector using Spring Boot. Focused on database optimization, batch processing, automation, and onboarding new developers.
+  from: April 2021
+  to: June 2024
+  achievement: Gained deep expertise in backend engineering and system performance, contributing to the scalability of critical banking services and supporting the onboarding of junior developers in a fast-paced agile team.
+  technologies:
+    - Spring Boot
+    - Oracle
+    - PostgreSQL
+    - Bash
+    - SQL
+
+- title: Studiodichiara SRL
+  position: IT Specialist · Internship / Part-time
+  project: Supported public administration services during high school, working on Joomla CMS development, PC maintenance, and LAN/WLAN systems for municipalities. Also coordinated ECDL courses and tutoring.
+  from: June 2015
+  to: September 2018
+  achievement: Developed a strong technical foundation and professional mindset early on, contributing to real-world IT solutions for public institutions while managing diverse responsibilities across hardware, software, and training. All during my High-school diploma.
+  technologies:
+    - Joomla 3
+    - Windows
+    - LAN/WLAN
+    - Captive Portal Systems
+    - Microsoft Office

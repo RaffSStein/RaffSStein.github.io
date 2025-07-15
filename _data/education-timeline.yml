@@ -1,0 +1,112 @@
+- title: TOGAF® 9.2 Certification (Level 1 & 2)
+  from: currently in progress
+  to:
+  focus:
+    - Enterprise Architecture Principles
+    - Architecture Development Method (ADM)
+    - TOGAF Content Framework & Metamodel
+    - Architecture Governance and Capability Framework
+  technologies:
+    - ArchiMate
+    - TOGAF ADM Tools
+    - BPMN
+    - Sparx Enterprise Architect
+
+
+- title: Cisco IT Essentials Certification
+  from: May 2016
+  to: May 2016
+  focus:
+    - Computer Hardware & Software Fundamentals
+    - Operating System Installation and Configuration
+    - Networking Basics and Security
+    - Preventive Maintenance and Troubleshooting
+  technologies:
+    - Windows
+    - Linux
+    - Cisco Packet Tracer
+    - BIOS/UEFI
+    - TCP/IP
+
+- title: ICDL Standard Certification
+  from: June 2017
+  to: July 2017
+  focus:
+    - Digital Literacy and Productivity Tools
+    - Word Processing (e.g. MS Word)
+    - Spreadsheets (e.g. MS Excel)
+    - Presentations (e.g. MS PowerPoint)
+    - Online Collaboration and Cloud Tools
+  technologies:
+    - Microsoft Office Suite
+    - Google Drive
+    - File Management Systems
+
+- title: ICDL Full Standard Certification
+  from: June 2017
+  to: July 2017
+  focus:
+    - Advanced Office Productivity
+    - Database Management Basics
+    - IT Security and Data Protection
+    - Online Services and Collaboration
+    - Computing Essentials
+  technologies:
+    - Microsoft Office Suite
+    - LibreOffice
+    - Microsoft Access
+    - Web-based tools (Google Docs, OneDrive)
+
+- title: ICDL IT Security Certification
+  from: June 2017
+  to: July 2017
+  focus:
+    - Data Protection and Privacy
+    - Secure Web Browsing and Communication
+    - Malware and Threat Prevention
+    - Device and Network Security Practices
+  technologies:
+    - Antivirus & Firewall Tools
+    - Secure Email (SSL/TLS)
+    - VPN
+    - Two-Factor Authentication
+
+
+
+- title: Bachelor's degree in CS @ UNIBA
+  from: October 2017
+  to: April 2021
+  grade: 106/110
+  thesis: Application of clustering algorithms for the analysis of genetic data
+  focus:
+    - Clustering algorithms (e.g. K-Means, DBSCAN, Hierarchical)
+    - Dimensionality reduction techniques (e.g. PCA, t-SNE)
+    - Bioinformatics and genetic data preprocessing
+    - Feature extraction from high-dimensional datasets
+    - Python (NumPy, Pandas, scikit-learn, matplotlib)
+    - Evaluation of unsupervised learning methods
+    - Data visualization and interpretation in biological context
+  technologies:
+    - C
+    - C++
+    - Java
+    - MySQL
+    - Python
+
+
+- title: High-school diploma in TI @ ITCG "MANLIO CAPITOLO", TURSI
+  from: September 2012
+  to: July 2017
+  grade: 90 / 100
+  focus:
+    - Network systems
+    - Computer architectures
+    - Programming basics
+  technologies:
+    - C
+    - Java
+    - PHP
+    - MySQL
+    - Javascript
+    - HTML
+    - CSS

@@ -1,0 +1,23 @@
+- name: Spring/Spring Boot
+  percentage: 90
+  color: success
+
+- name: Quarkus
+  percentage: 45
+  color: danger
+
+- name: TOGAF
+  percentage: 75
+  color: success
+
+- name: Unreal Engine 5
+  percentage: 55
+  color: warning
+
+- name: NumPy
+  percentage: 40
+  color: warning
+
+- name: Pandas
+  percentage: 40
+  color: warning

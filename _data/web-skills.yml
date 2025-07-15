@@ -1,0 +1,19 @@
+- name: OpenAPI/Swagger UI
+  percentage: 85
+  color: success
+
+- name: JWT/Auth mechanisms
+  percentage: 80
+  color: success
+
+- name: HTML/CSS/JS/jQuery
+  percentage: 70
+  color: warning
+
+- name: WebSockets/EventSource
+  percentage: 65
+  color: warning
+
+- name: REST APIs
+  percentage: 90
+  color: success
