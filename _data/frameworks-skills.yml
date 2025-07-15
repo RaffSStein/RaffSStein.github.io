@@ -16,8 +16,8 @@
 
 - name: NumPy
   percentage: 40
-  color: warning
+  color: danger
 
 - name: Pandas
   percentage: 40
-  color: warning
+  color: danger

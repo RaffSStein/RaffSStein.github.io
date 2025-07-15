@@ -11,5 +11,9 @@
   color: warning
 
 - name: Python
-  percentage: 60
-  color: secondary
+  percentage: 50
+  color: warning
+
+- name: C#
+  percentage: 40
+  color: danger
