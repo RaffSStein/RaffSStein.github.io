@@ -5,9 +5,8 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
 
-# **About Me** <span><a href="/assets/resume.pdf" class="btn btn-info" id="cv-button">CV</a></span>
+# **About Me** <span><a href="/assets/cv.pdf" class="btn btn-info" id="cv-button">CV</a></span> <span><a href="/assets/resume.pdf" class="btn btn-info" id="cv-button">Resume</a></span>
 :wave: Hi there!
 
 :pushpin: I'm {{ site.author.name }}, a Software Engineer based in Bari (Italy), currently working at Accenture. I’m passionate about coding and video games, and I enjoy building clean and efficient software systems.
