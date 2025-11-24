@@ -6,7 +6,7 @@ weight: 3
 ---
 
 
-# **About Me** <span><a href="/assets/cv.pdf" class="btn btn-info" id="cv-button">CV</a></span> <span><a href="/assets/resume.pdf" class="btn btn-info" id="cv-button">Resume</a></span>
+# **About Me** <span><a href="/assets/cv.pdf" class="btn btn-info" id="cv-button">CV</a></span> 
 :wave: Hi there!
 
 :pushpin: I'm {{ site.author.name }}, a Software Engineer based in Amsterdam (Netherlands), currently working at Accenture. I’m passionate about coding and video games, and I enjoy building clean and efficient software systems.
