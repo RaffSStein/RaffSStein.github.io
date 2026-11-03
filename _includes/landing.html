@@ -1,58 +1,29 @@
-<style>
-    /* loading animation */
-    .profile-logo {
-      opacity: 0;
-      transform: scale(0.95);
-      transition: opacity 1s ease, transform 1s ease;
-    }
-
-    .profile-logo.loaded {
-      opacity: 1;
-      transform: scale(1);
-    }
-
-    /* hover effect */
-    .profile-logo:hover {
-      transform: scale(1.05);
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.35);
-    }
-</style>
-
-<script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const img = document.querySelector('.profile-logo');
-      if (img.complete) {
-        img.classList.add('loaded');
-      } else {
-        img.addEventListener('load', () => img.classList.add('loaded'));
-      }
-    });
-</script>
-
 <section class="landing text-center">
     <div class="container">
 
-        <!-- Logo Image with animation -->
-        <img src="{{ '/assets/logo.jpg' | relative_url }}"
-             alt="Raffaele Prince logo"
-             class="profile-logo"
-             style="width: 180px; height: auto; border-radius: 50%; margin-bottom: 1.5rem; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+        <div class="term">
+            <div class="term-bar" aria-hidden="true"><i></i><i></i><i></i></div>
+            <div class="term-body">
+                <p><span class="prompt">raffaele@amsterdam:~$</span> whoami</p>
+                <h1 class="landing-title">{{ site.author.name }}</h1>
+                <span class="out landing-subtitle">Software Developer | Problem Solver | Curious Mind</span>
 
-        <!-- Welcome Text -->
-        <h1 class="landing-title">Hi, I'm Raffaele Prince</h1>
-        <p class="landing-subtitle">Software Developer | Problem Solver | Curious Mind</p>
+                <p class="gap"><span class="prompt">raffaele@amsterdam:~$</span> cat stack.txt</p>
+                <span class="out">java &nbsp;spring-boot &nbsp;gcp &nbsp;aws &nbsp;postgresql</span>
 
-        <!-- Mystery Quote -->
-        <div class="quote-box" style="margin-top: 2.5rem; max-width: 800px; margin-left: auto; margin-right: auto;">
-            <blockquote style="font-style: italic; font-size: 1.1rem; line-height: 1.6;">
-                When you've decoded this message and found out from where the quote comes from,<br>
-                contact me directly with the solution and I'll buy you a coffee ☕:
-                <br><br>
-                <code style="word-wrap: break-word; display: inline-block;">
-                    WW91ciBkdXR5IGlzIGFzIHBhaW5mdWwgYSBidXJkZW4gYXMgZXZlciBJIHNlZS4gUGVyaGFwcyBkZWF0aCB3b3VsZCBoYXZlIGJlZW4gZWFzaWVyIGZvciB5b3U=
-                </code>
-                <br><br>
-            </blockquote>
+                <p class="gap"><span class="prompt">raffaele@amsterdam:~$</span> <span class="cursor" aria-hidden="true"></span></p>
+            </div>
+        </div>
+
+        <div class="landing-cta">
+            <a class="btn btn-accent" href="{{ '/projects/' | relative_url }}">View projects</a>
+            <a class="btn btn-ghost" href="{{ '/assets/cv.pdf' | relative_url }}">Download CV</a>
+        </div>
+
+        <div class="egg">
+            When you've decoded this message and found out from where the quote comes from,
+            contact me directly with the solution and I'll buy you a coffee ☕
+            <code>WW91ciBkdXR5IGlzIGFzIHBhaW5mdWwgYSBidXJkZW4gYXMgZXZlciBJIHNlZS4gUGVyaGFwcyBkZWF0aCB3b3VsZCBoYXZlIGJlZW4gZWFzaWVyIGZvciB5b3U=</code>
         </div>
 
     </div>

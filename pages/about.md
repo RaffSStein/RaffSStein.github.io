@@ -7,15 +7,15 @@ weight: 3
 
 
 # **About Me** <span><a href="/assets/cv.pdf" class="btn btn-info" id="cv-button">CV</a></span> 
-:wave: Hi there!
+Hi there!
 
-:pushpin: I'm {{ site.author.name }}, a Software Engineer based in Amsterdam (Netherlands), currently working at Accenture. I’m passionate about coding and video games, and I enjoy building clean and efficient software systems.
+I'm {{ site.author.name }}, a Software Engineer based in Amsterdam (Netherlands), currently working at Accenture. I’m passionate about coding and video games, and I enjoy building clean and efficient software systems.
 
-:video_game: My interests revolve around cloud technologies, AI applied to code generation and automation, software architectures, game development, and personal finance. I constantly explore how these areas intersect and evolve.
+My interests revolve around cloud technologies, AI applied to code generation and automation, software architectures, game development, and personal finance. I constantly explore how these areas intersect and evolve.
 
-:mortar_board: I hold a degree in Software Development, which gave me a strong foundation in designing and building applications—from backend systems to interactive interfaces.
+I hold a degree in Software Development, which gave me a strong foundation in designing and building applications—from backend systems to interactive interfaces.
 
-:rocket: I’m always eager to learn new tools and frameworks, tackle complex problems, and take on new challenges that push me to grow as a developer.
+I’m always eager to learn new tools and frameworks, tackle complex problems, and take on new challenges that push me to grow as a developer.
 
 <div class="row skills-row">
 {% include about/skills.html title="Programming" source=site.data.programming-skills %}

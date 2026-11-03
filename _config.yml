@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Raffaele Prince
 description         : >-
-                      When you've decoded this message and found out from where the quote come from, contact me directly with the solution and I'll buy you a coffee ☕: "WW91ciBkdXR5IGlzIGFzIHBhaW5mdWwgYSBidXJkZW4gYXMgZXZlciBJIHNlZS4gUGVyaGFwcyBkZWF0aCB3b3VsZCBoYXZlIGJlZW4gZWFzaWVyIGZvciB5b3U="
+                      Raffaele Prince, software engineer in Amsterdam working on cloud-native backends, architecture and Spring Boot.
 baseurl             : "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : RaffSStein/ raffsstein.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : RaffSStein/raffsstein.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : true # Opens external URLs in new tab (works for posts, projects and navbar only)
 
