@@ -1,0 +1,7 @@
+- name: Italian (Native)
+  percentage: 100
+  color: success
+
+- name: English (C2)
+  percentage: 95
+  color: success

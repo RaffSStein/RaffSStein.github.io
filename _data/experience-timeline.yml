@@ -1,28 +1,32 @@
 - title: Accenture
-  position: Enterprise Architect Senior Consultant · Full-time
-  project: Leading a cloud infrastructure project on both GCP and AWS for clients in the Mobility and Insurance sectors, combining senior backend development with cloud architecture design.
-  from: June 2024
+  position: Senior Software Engineer · Full-time
+  project: Building and delivering a microservice event-based architecture (100+ API integrations) on both GCP (Spring Boot/Java + PostgreSQL) and AWS (Quarkus/Kotlin + MongoDB) for clients in the Mobility and Insurance sectors. Migrated a legacy monolith to microservices, improving scalability and maintainability, and built a tech-insurance library that lets developers integrate insurance products into their applications.
+  from: April 2024
   to: Present
-  achievement: Took on a leadership role in a high-responsibility, cloud-native project, contributing to enterprise architecture decisions and mentoring junior team members while ensuring alignment with modern cloud and DevOps practices. Also gained expertise in the Tolling and Insurance market fields.
+  achievement: Leading a cross-functional team of 8/10 people as code delivery manager and contributing to enterprise architecture decisions, while ensuring alignment with modern cloud and DevOps practices. Oversaw cloud cost optimization and performance tuning, resulting in a 30% reduction in operational costs, and mentored engineers to speed up onboarding. Also gained expertise in the Tolling and Insurance market fields.
   technologies:
     - Spring Boot
+    - Quarkus
+    - Java
+    - Kotlin
     - PostgreSQL
+    - MongoDB
     - Google Cloud Platform (GCP)
     - AWS
     - Pub/Sub
     - Firestore
     - Cloud Storage
-    - Java
 
 
 - title: Open Reply
-  position: Mid Backend Developer · Full-time
-  project: Developed and maintained microservices for a Wealth Management Platform in the banking sector using Spring Boot. Focused on database optimization, batch processing, automation, and onboarding new developers.
+  position: Software Engineer · Full-time
+  project: Developed and maintained microservices for a Wealth Management Platform in the banking sector using Spring Boot. Built an order execution engine and a suitability algorithm in 6 months, implemented large batch workflows with Spring Batch handling millions of records, and automated data uploading and transfer with Bash and SQL scripting.
   from: April 2021
   to: June 2024
-  achievement: Gained deep expertise in backend engineering and system performance, contributing to the scalability of critical banking services and supporting the onboarding of junior developers in a fast-paced agile team.
+  achievement: Optimized Oracle databases and tuned the system, improving overall performance by 25% and speeding up data fetching and API response time by 40%. Mentored junior developers and led a team of 6/8 developers in a fast-paced agile team; the order execution work contributed to a promotion.
   technologies:
     - Spring Boot
+    - Spring Batch
     - Oracle
     - PostgreSQL
     - Bash
